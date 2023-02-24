@@ -1,2 +1,2 @@
 # Hang Man
-console/terminal hangman game
+Console/terminal hangman game to practice C++
